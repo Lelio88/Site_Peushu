@@ -31,12 +31,12 @@ for (let i = 0; i < 30; i++) {
 // --- NUAGE ---
 const cloudContainer = document.querySelector('.clouds');
 const cloudImages = [
-    'Nuages 1.png',
-    'Nuages 2.png',
-    'Nuages 3.png',
-    'Nuages 4.png',
-    'Nuages 5.png',
-    'Nuages 6.png',
+    'Assets/Nuages 1.png',
+    'Assets/Nuages 2.png',
+    'Assets/Nuages 3.png',
+    'Assets/Nuages 4.png',
+    'Assets/Nuages 5.png',
+    'Assets/Nuages 6.png',
 ];
 
 const clouds = [];
