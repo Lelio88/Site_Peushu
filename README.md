@@ -27,9 +27,10 @@ peushu-site/
 ├── index.html           # Structure principale
 ├── style.css            # Styles et animations CSS
 ├── script.js            # Animations canvas et logique
-├── Peushu.png          # Logo
-├── lake.png            # Image de décor
-└── Nuages [1-6].png    # Assets des nuages
+└── Assets/
+          ├── Peushu.png          # Logo
+          ├── lake.png            # Image de décor
+          └── Nuages [1-6].png    # Assets des nuages
 ```
 
 ## Installation
